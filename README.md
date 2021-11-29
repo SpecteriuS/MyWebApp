@@ -1,4 +1,3 @@
-# MyWebApp-FlaskAndDB-
 TranslatorSolve
 Работы по введения в информационные технологии
 
